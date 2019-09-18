@@ -10,7 +10,7 @@ body {
     background-color: lightslategray;
     margin: auto;
     width: 850px;
-    height: 550px;
+    height: auto; 
     padding: 20px;
 }
 
@@ -35,10 +35,10 @@ header {
 }
 
 #time-left {
-    
+    text-align: center; 
+    font-size: 30px; 
 }
 
-.questions {
-    font-family: 'Bangers', cursive;
-    font-family: 'Advent Pro', sans-serif;
+.questions { 
+    padding: 5px; 
 }
