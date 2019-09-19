@@ -4,6 +4,8 @@
 
 LIRI is a command line node application that takes in parameters from the user and provides information based on specific commands used. The information is gathered using the following three APIs for information: Spotify for songs, Bands in Town for concerts, and OMDB for movies. 
 
+test test 
+
 ## Usage 
 
 The command line will expect the base input of: node liri.js with each command. Then, the user has four commands to choose from which are listed below: 
